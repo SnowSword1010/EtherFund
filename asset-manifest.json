@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EtherFund/static/css/main.073c9b0a.css",
+    "main.js": "/EtherFund/static/js/main.b262b2f1.js",
+    "static/js/787.12b5b3ab.chunk.js": "/EtherFund/static/js/787.12b5b3ab.chunk.js",
+    "index.html": "/EtherFund/index.html",
+    "main.073c9b0a.css.map": "/EtherFund/static/css/main.073c9b0a.css.map",
+    "main.b262b2f1.js.map": "/EtherFund/static/js/main.b262b2f1.js.map",
+    "787.12b5b3ab.chunk.js.map": "/EtherFund/static/js/787.12b5b3ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b262b2f1.js"
+  ]
+}
